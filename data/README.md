@@ -22,7 +22,6 @@ Key features include:
 - Stressors (Academic, Work, Financial)
 - Well-being indicators
 - Clinical risk factors
-- Performance metrics
 - Lifestyle factors (Sleep, Diet)
 
 For a comprehensive analysis of the data, refer to the `explore_mental_data.ipynb` notebook in the project.
